@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name TopAndDownButtonsEverywhere
+// @name TopDownButtonsEverywhere
 // @description Top and Down buttons everywhere (no Jquery) 
 // @version 1.6
 // @author Max Max
