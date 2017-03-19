@@ -2,7 +2,7 @@
 // @name TopDownButtonsEverywhere
 // @description Top and Down buttons everywhere (no Jquery) 
 // @version 1.6
-// @author Max Max
+// @author LaidBackTempo
 // @license MIT
 // @include *
 // @icon http://pics.smotri.com/cskins/blue/smiles/bt.gif
