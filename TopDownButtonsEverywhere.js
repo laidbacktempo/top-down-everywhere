@@ -5,9 +5,6 @@
 // @author LaidBackTempo
 // @license MIT
 // @include *
-// @icon http://pics.smotri.com/cskins/blue/smiles/bt.gif
-// @run-at document-end
-// @grant none
 // ==/UserScript==
 
 // [1] skip all iframe 
